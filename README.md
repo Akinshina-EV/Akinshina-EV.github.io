@@ -1,1 +1,0 @@
-# Akinshina-EV.github.io
