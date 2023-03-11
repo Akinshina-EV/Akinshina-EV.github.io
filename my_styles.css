@@ -1,0 +1,72 @@
+#smile {
+    width: 9%;
+}
+
+#Businka {
+    width: 35%;
+}
+
+.about_dog {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    margin-top: 50px;
+    color: dimgray;
+}
+
+html {
+    display: flex;
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
+    background-color: lightcyan;
+}
+
+body {
+    display: block;
+    margin: 8px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 100px;
+}
+
+.about_york {
+    width: 1070px;
+}
+
+h3 {
+    font-size: xx-large;
+    text-decoration: underline;
+    margin-left: 100px;
+    margin-top: 50px
+    
+}
+
+h1 {
+
+    font-size: xxx-large;
+    color: #1f40c6;
+    font-style: oblique;
+}
+
+h4 {
+    font-size: xx-large;
+    text-decoration: underline;
+    margin-bottom: 0px;
+}
+
+ol {
+    color: dimgray;
+    margin-right: 100px;
+    margin-top: 60px;
+}
+
+a {
+    font-size: larger;
+    color: darkred;
+}
+
+#end_paragraph {
+    margin-bottom: 0px;
+}
